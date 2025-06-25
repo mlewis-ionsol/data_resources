@@ -12,7 +12,7 @@
     * [RCM CEOS Analysis Ready Data](https://registry.opendata.aws/rcm-ceos-ard/)
     * [Main Index of public EODMS data](https://data.eodms-sgdot.nrcan-rncan.gc.ca/public/)
     * [Index of public/EGS/CEOS/](https://data.eodms-sgdot.nrcan-rncan.gc.ca/public/EGS/)
-  * [https://mda.space/geo-intelligence](https://mda.space/geo-intelligence)[2]
+  * [MDA Space geo-intelligence](https://mda.space/geo-intelligence)[2]
 
 ### NASA - Goddard Instute for Space Studies
   * Earth Sciences

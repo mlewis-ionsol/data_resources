@@ -8,7 +8,8 @@
     * [Ocean, Coastal and River Engineering Research Centre](https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/ocean-coastal-river-engineering-research-centre)
   * Climate Data
     * [Building reference year climate datasets for 564 reference locations in Canada](https://nrc-digital-repository.canada.ca/eng/view/object/?id=92bfa9cf-6d35-4de4-80c2-799f53961f60) 
-  * EODMS - [Earth Observation Data Management System](https://www.eodms-sgdot.nrcan-rncan.gc.ca/index-en.html)[1]
+  * EODMS
+    * [Earth Observation Data Management System](https://www.eodms-sgdot.nrcan-rncan.gc.ca/index-en.html)[1]
     * [RCM CEOS Analysis Ready Data](https://registry.opendata.aws/rcm-ceos-ard/)
     * [Main Index of public EODMS data](https://data.eodms-sgdot.nrcan-rncan.gc.ca/public/)
     * [Index of public/EGS/CEOS/](https://data.eodms-sgdot.nrcan-rncan.gc.ca/public/EGS/)

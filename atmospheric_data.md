@@ -36,8 +36,9 @@
         * [GrADS Data Server](https://opendap.nccs.nasa.gov/dods/)[3][4]
         * [Global Precipitation Climatology Project](https://aims2.llnl.gov/search/obs4MIPs/)[3][4]
 
-
-   
+### NOAA - National Centers for Environmental Information
+ * [Global Marine Observations in 10-degree Bins](https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C00606/html)
+ * [NOAA OneStop Data Search Platform](https://data.noaa.gov/onestop/) 
 ----
 
 [1] Requires regsitration to access products. Very quick response

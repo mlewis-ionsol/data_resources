@@ -2,6 +2,10 @@
 
 ----
 
+### Government of Canada
+* [Climate Data Products](https://open.canada.ca/data/en/dataset/51dbf91e-509c-437b-ab9e-eca6d0bf6fa8)[3]
+* [Canada Current Weather](https://weather.gc.ca/)
+
 ### National Research Council 
 * Main Website - [NRC](https://nrc.canada.ca/en)
   * Earth Sciences
@@ -40,6 +44,6 @@
 
 [2] Commercial account required for corporate users.  Academic Institutions may be able to acccess data sets for free.
 
-[3] Historical Data
+[3] New and/or Historical Data
 
 [4] Links to large data sets

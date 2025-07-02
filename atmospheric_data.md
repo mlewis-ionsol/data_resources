@@ -2,7 +2,9 @@
 
 ----
 
-### Government of Canada
+## Government of Canada
+
+### Canada Open Datasets
 * [Climate Data Products](https://open.canada.ca/data/en/dataset/51dbf91e-509c-437b-ab9e-eca6d0bf6fa8)[3]
 * [Canada Current Weather](https://weather.gc.ca/)
 
@@ -19,7 +21,9 @@
     * [Index of public/EGS/CEOS/](https://data.eodms-sgdot.nrcan-rncan.gc.ca/public/EGS/)
   * [MDA Space geo-intelligence](https://mda.space/geo-intelligence)[2]
 
-### NASA - Goddard Instute for Space Studies
+## NASA
+
+### Goddard Instute for Space Studies
   * Earth Sciences
     * [AgMERRA and AgCFSR Climate Forcing Datasets for Agricultural Modeling](https://data.giss.nasa.gov/impacts/agmipcf/)
         * [AgMERRA](https://data.giss.nasa.gov/impacts/agmipcf/agmerra/)[3]
@@ -30,15 +34,22 @@
     * [Global Modeling and Assimilation Office](https://gmao.gsfc.nasa.gov/research/assimilation/)[4]
   * [Global Fire Weather Database](https://data.giss.nasa.gov/impacts/gfwed/)[4]
 
-### NASA Center for Climate Simulation
+### Center for Climate Simulation
   * [Main Web Page](https://www.nccs.nasa.gov/services/climate-data-services)
     * [NCCS Data Collections](https://www.nccs.nasa.gov/services/data-collections)
         * [GrADS Data Server](https://opendap.nccs.nasa.gov/dods/)[3][4]
         * [Global Precipitation Climatology Project](https://aims2.llnl.gov/search/obs4MIPs/)[3][4]
 
-### NOAA - National Centers for Environmental Information
+## NOAA
+
+### National Centers for Environmental Information
  * [Global Marine Observations in 10-degree Bins](https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C00606/html)
- * [NOAA OneStop Data Search Platform](https://data.noaa.gov/onestop/) 
+ * [NOAA OneStop Data Search Platform](https://data.noaa.gov/onestop/)[1][3][4]
+   
+#### Google Cloud Datasets
+* [Google Cloud Console - Dataset Matrix](https://console.cloud.google.com/marketplace/browse?filter=partner:NOAA&inv=1&invt=Ab1sOQ)[4]
+
+
 ----
 
 [1] Requires regsitration to access products. Very quick response
@@ -48,3 +59,4 @@
 [3] New and/or Historical Data
 
 [4] Links to large data sets
+
